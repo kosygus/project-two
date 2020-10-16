@@ -123,3 +123,29 @@ p {
   width: 100%;
   height: 100%;
 }
+
+.damagehead {
+  font-size: 60px;
+  color: #5b2434;
+}
+
+.damagep {
+  font-size: 40px;
+  word-spacing: 55;
+  color: #5b2434;
+}
+
+.flex-container {
+  flex-direction: column;
+}
+
+.futurehead {
+  font-size: 60px;
+  color: #5b2434;
+}
+
+.futurep {
+  font-size: 40px;
+  word-spacing: 55;
+  color: #5b2434;
+}
