@@ -1,12 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
+  <body background="./images/index.jpg"></body>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Fast Fashion</title>
-    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <script src="./js/navbar.js" defer></script>
   </head>
   <body>
-    <h1></h1>
+    <nav>
+      <a href="./">
+        <img src="./images/logo.png" alt="Logo" />
+      </a>
+      <ul>
+        <li>
+          <a href="./culprits/" title="The Culprits">The Culprits </a>
+        </li>
+        <li>
+          <a href="./damage/" title="The Damage">The Damage</a>
+        </li>
+        <li>
+          <a href="./future/" title="The Future">The Future</a>
+        </li>
+      </ul>
+      <img
+        id="menu"
+        src="./images/menu.svg"
+        alt="Menu Icon"
+        onclick="toggleMenu()"
+      />
+    </nav>
+    <main>
+      <h1>Fast Fashion</h1>
+      <p>
+        The fashion industry is the second largest polluter in the world. <br />
+        Let that sink in.
+      </p>
+      <p>
+        From water consumption to landfills piled with waste - <br />
+        our shopping habits are wreaking havoc on our planet.
+      </p>
+      <h1>So what can we do?</h1>
+    </main>
   </body>
 </html>
