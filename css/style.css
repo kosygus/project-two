@@ -149,3 +149,14 @@ p {
   word-spacing: 55;
   color: #5b2434;
 }
+
+.creditshead {
+  font-size: 60px;
+  color: #5b2434;
+}
+
+.creditsp {
+  font-size: 40px;
+  word-spacing: 55;
+  color: #5b2434;
+}
