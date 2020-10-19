@@ -95,20 +95,21 @@ h1 {
 }
 
 p {
-  font-size: 40px;
+  font-size: 4\20px;
   color: white;
   position: relative;
 }
 
 .culprithead {
-  font-size: 60px;
+  font-size: 40px;
   color: #5b2434;
 }
 
 .culpritp {
-  font-size: 40px;
+  font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
+  max-width: 600px;
 }
 
 .youtubevid {
@@ -125,14 +126,15 @@ p {
 }
 
 .damagehead {
-  font-size: 60px;
+  font-size: 40px;
   color: #5b2434;
 }
 
 .damagep {
-  font-size: 40px;
+  font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
+  max-width: 600px;
 }
 
 .flex-container {
@@ -140,34 +142,37 @@ p {
 }
 
 .futurehead {
-  font-size: 60px;
+  font-size: 40px;
   color: #5b2434;
 }
 
 .futurep {
-  font-size: 40px;
+  font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
+  max-width: 600px;
 }
 
 .creditshead {
-  font-size: 60px;
+  font-size: 40px;
   color: #5b2434;
 }
 
 .creditsp {
-  font-size: 40px;
+  font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
+  max-width: 600px;
 }
 
 .faqshead {
-  font-size: 60px;
+  font-size: 40px;
   color: #5b2434;
 }
 
 .faqsp {
-  font-size: 40px;
+  font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
+  max-width: 600px;
 }
