@@ -105,21 +105,24 @@ p {
 .culprithead {
   font-size: 40px;
   color: #5b2434;
-  padding-left: 20px;
+  padding-left: 50px;
   text-decoration: underline;
+  position: relative;
+  top: 20px;
 }
 
 .culpritp {
   font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
-  max-width: 600px;
-  padding-left: 20px;
+  max-width: 800px;
+  padding-left: 60px;
 }
 
 .youtubevid {
   padding-top: 56.25%;
   position: relative;
+  left: 120px;
 }
 
 .youtubevid > iframe {
@@ -134,20 +137,29 @@ p {
   font-size: 40px;
   color: #5b2434;
   padding-left: 20px;
+  text-decoration: underline;
+  position: relative;
+  top: 20px;
 }
 
 .damagep {
   font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
-  max-width: 800px;
-  padding-left: 20px;
+  max-width: 600px;
+  padding-left: 40px;
 }
 
-.flex-container {
-  padding-left: 20px;
-  display: grid;
-  grid-template-columns: auto auto auto auto;
+.pesticides {
+  position: relative;
+  left: 800px;
+  bottom: 300px;
+}
+
+.trash {
+  position: relative;
+  left: 105px;
+  bottom: 200px;
 }
 
 .futurehead {
@@ -185,15 +197,18 @@ p {
 .creditshead {
   font-size: 40px;
   color: #5b2434;
-  padding-left: 20px;
+  padding-left: 70px;
+  text-decoration: underline;
+  position: relative;
+  top: 20px;
 }
 
 .creditsp {
   font-size: 20px;
   word-spacing: 55;
   color: #5b2434;
-  max-width: 600px;
-  padding-left: 20px;
+  max-width: 1000px;
+  padding-left: 70px;
 }
 
 .faqshead {
@@ -215,4 +230,23 @@ p {
   position: absolute;
   display: table-column;
   left: 200px;
+}
+
+.sources {
+  font-size: 20px;
+  word-spacing: 55;
+  color: #5b2434;
+  max-width: 800px;
+  position: relative;
+  left: 170px;
+}
+
+.sourcesdamage {
+  font-size: 20px;
+  word-spacing: 55;
+  color: #5b2434;
+  max-width: 800px;
+  position: relative;
+  left: 120px;
+  bottom: 200px;
 }
