@@ -170,16 +170,16 @@ p {
 .futureimg {
   position: relative;
   left: 910px;
-  bottom: 200px;
+  bottom: 280px;
 }
 
 .box {
-  width: 400px;
+  width: 460px;
   height: auto;
   border: 5px solid #5b2434;
   position: relative;
-  left: 950px;
-  bottom: 600px;
+  left: 500px;
+  bottom: 200px;
 }
 
 .creditshead {
