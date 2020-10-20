@@ -103,6 +103,8 @@ p {
 .culprithead {
   font-size: 40px;
   color: #5b2434;
+  padding-left: 20px;
+  text-decoration: underline;
 }
 
 .culpritp {
@@ -110,6 +112,7 @@ p {
   word-spacing: 55;
   color: #5b2434;
   max-width: 600px;
+  padding-left: 20px;
 }
 
 .youtubevid {
@@ -120,8 +123,8 @@ p {
 .youtubevid > iframe {
   position: absolute;
   top: 0;
-  left: 0;
-  width: 100%;
+  left: 20px;
+  width: 80%;
   height: 100%;
 }
 
