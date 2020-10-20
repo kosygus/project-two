@@ -3,7 +3,6 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: #f7f3f0;
 }
 
 /* Navigation */
@@ -131,6 +130,29 @@ p {
   left: 20px;
   width: 80%;
   height: 100%;
+}
+
+.ffhead {
+  position: relative;
+  left: 50px;
+}
+
+.ffp {
+  position: relative;
+  left: 80px;
+  bottom: 30px;
+}
+
+.ffp2 {
+  position: relative;
+  left: 300px;
+  top: 60px;
+}
+
+.ffhead2 {
+  position: relative;
+  left: 100px;
+  top: 30px;
 }
 
 .damagehead {
